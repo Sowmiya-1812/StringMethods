@@ -6,6 +6,7 @@ public class Contains {
 		String name1 = new String("Sriram");
 		boolean value1 = name.contains("Sreeram");
 		System.out.println(value1);
+		System.out.println(name);
 	
 	}
 		
